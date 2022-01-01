@@ -1,0 +1,69 @@
+{
+  "basics": {
+    "name": "Sandip Sanap",
+    "label": "",
+    "picture": "https://www.facebook.com/photo/?fbid=2756006004679466&set=a.1378499885763425",
+    "email": "sandipsanap97@gmail.com",
+    "phone": "9860157643",
+    "degree": "BE.Electrical",",
+    "location": {
+      "address": "Sangamner",
+      "postalCode": "422611",
+      "city": "Sagamner",
+      "countryCode": "IND",
+      "region": "India"
+    },
+    "profiles": [
+      {
+        "network": "https://twitter.com/home?lang=en",
+        "username": "SpiderSandy",
+        "url": "https://twitter.com/SandipS81168621"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Cognizant",
+      "position": "Associate",
+      "highlights": [
+        "Front end devloper"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "S .S .TALEGAON DIGHE",
+      "area": ".TALEGAON DIGHE",
+      "studyType": "",
+      "startDate": "2019-10-10",
+      "endDate": "2022-10-10",
+      "gpa": "",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML,CSS,JavaScript,React",
+      "level": "Intermidiate",
+      "keywords": [
+        "CSS HTML JS "
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "High"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "'Cricket', 'Football', 'Golf'"
+      ]
+    }
+  ]
+}
